@@ -25,4 +25,4 @@ Laba 2<br>
 Laba 3<br>
 Laba 4<br>
 Laba 5<br>
-Plot final
+Plot final (вместе с папкой "qcustomplot")
