@@ -13,7 +13,7 @@ Game<br><br>
 Семестр 2:<br>
 Asteroids<br>
 Classes<br>
-Game<br>
+Game2<br>
 lab3<br>
 MyGraphicView<br>
 SlotNSignal<br>
