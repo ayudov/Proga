@@ -19,7 +19,7 @@ MyGraphicView<br>
 SlotNSignal<br>
 Start<br>
 Tutorial1<br><br>
-Семестр 2:<br>
+Семестр 3:<br>
 Laba 1<br>
 Laba 2<br>
 Laba 3<br>
