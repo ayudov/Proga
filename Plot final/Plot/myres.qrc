@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Iamges">
+        <file>func.png</file>
+        <file>floppy-128.png</file>
+        <file>text.png</file>
+        <file>myico.ico</file>
+    </qresource>
+</RCC>
