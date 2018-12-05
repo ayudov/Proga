@@ -1,21 +1,21 @@
-"# Proga" 
-Семестр 1:
-1.laba (rimskie)
-2.laba (triangle)
-3.laba
-4.laba
-5.laba (string sort)
-6.laba (SLAE)
-7.laba (function)
-8.laba (resistance)
-9.laba (file)
-Game
-Семестр 2:
-Asteroids
-Classes
-Game
-lab3
-MyGraphicView
-SlotNSignal
-Start
-Tutorial1
+"# Proga"<br>
+Семестр 1:<br>
+1.laba (rimskie)<br>
+2.laba (triangle)<br>
+3.laba<br>
+4.laba<br>
+5.laba (string sort)<br>
+6.laba (SLAE)<br>
+7.laba (function)<br>
+8.laba (resistance)<br>
+9.laba (file)<br>
+Game<br><br>
+Семестр 2:<br>
+Asteroids<br>
+Classes<br>
+Game<br>
+lab3<br>
+MyGraphicView<br>
+SlotNSignal<br>
+Start<br>
+Tutorial1<br>
