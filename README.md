@@ -18,4 +18,11 @@ lab3<br>
 MyGraphicView<br>
 SlotNSignal<br>
 Start<br>
-Tutorial1<br>
+Tutorial1<br><br>
+Семестр 2:<br>
+Laba 1<br>
+Laba 2<br>
+Laba 3<br>
+Laba 4<br>
+Laba 5<br>
+Plot
